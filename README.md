@@ -22,7 +22,7 @@ This project serves as a **comprehensive showcase** for developers exploring adv
   
   
   *Make habit tracking fun and rewarding*
-  <video src="https://github.com/user-attachments/assets/your-video-id" controls width="100%" ></video>
+  <video src="https://github.com/user-attachments/assets/e0864b8f-56ba-4b45-a062-bd88675faa50" controls width="100%" ></video>
 
     
 </div>
