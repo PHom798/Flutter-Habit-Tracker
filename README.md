@@ -55,8 +55,18 @@ This project serves as a **comprehensive showcase** for developers exploring adv
   <table>
     <tr>
       <td><img src="screenshots/image1.jpg" alt="Habit Tracker Home" width="250"/></td>
-      <td><img src="screenshots/image2.jpg" alt="Habit Creation" width="250"/></td>
-      <td><img src="screenshots/image3.jpg" alt="Celebration Screen" width="250"/></td>
+      <td><img src="screenshots/image6.jpg" alt="Habit Creation" width="250"/></td>
+      <td><img src="screenshots/image10.jpg" alt="Celebration Screen" width="250"/></td>
+      <td><img src="screenshots/image2.jpg" alt="Progress View" width="250"/></td>
+    </tr>
+  </table>
+</div>
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="screenshots/image2.jpg" alt="Habit Tracker Home" width="250"/></td>
+      <td><img src="screenshots/image5.jpg" alt="Habit Creation" width="250"/></td>
+      <td><img src="screenshots/image9.jpg" alt="Celebration Screen" width="250"/></td>
       <td><img src="screenshots/image4.jpg" alt="Progress View" width="250"/></td>
     </tr>
   </table>
