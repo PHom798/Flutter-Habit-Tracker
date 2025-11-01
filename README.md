@@ -68,7 +68,7 @@ This project serves as a **comprehensive showcase** for developers exploring adv
 
 Watch the **Habit Tracker** in action:
 <div align="center">
-<video src="https://github.com/user-attachments/assets/your-demo-video-id" controls width="100%" ></video> 
+<video src="https://github.com/user-attachments/assets/6243fc08-f12e-40c4-b998-eec4abcefff8" controls width="100%" ></video> 
 </div>
 
 
